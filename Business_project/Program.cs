@@ -9,7 +9,7 @@ namespace Business_project
     internal static class Program
     {
         /// <summary>
-        /// Главная точка входа для приложения.casdasdasd
+        /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
         static void Main()
